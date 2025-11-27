@@ -1,0 +1,4 @@
+'GK'(goalkeeper)
+'M'(midfield)
+'A'(attack)
+'D'(defense)
